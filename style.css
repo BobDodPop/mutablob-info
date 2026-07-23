@@ -21,10 +21,11 @@ p {
 }
 
 table, th, td, tr {
-  border: 2px solid black;
-  border-radius: 5px;
-  font-size: 24px;
-  text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 24px;
+    text-align: center;
+    background-color: #FFFFFF
 }
 
 #common {
