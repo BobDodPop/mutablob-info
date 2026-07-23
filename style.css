@@ -49,4 +49,7 @@ table, th, td, tr {
 
 #evasion {
     background-image: url("./evasion-blob");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
