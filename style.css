@@ -33,5 +33,5 @@ table, th, td, tr {
 }
 
 #legendary {
-  background: linear-gradient(90deg, red, yellow, green, blue, purple, red, yellow, green, blue)
+  background: linear-gradient(90deg, rgb(255, 94, 64), rgb(252, 199, 0), rgb(144, 238, 50), rgb(74, 212, 255), rgb(252, 128, 255), rgb(255, 94, 64), rgb(252, 199, 0), rgb(144, 238, 50), rgb(74, 212, 255))
 }
