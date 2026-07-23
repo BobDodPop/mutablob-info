@@ -30,3 +30,11 @@ table, th, td, tr {
 #common {
     background-color: rgb(128, 128, 128)
 }
+
+#rare {
+    background-color: rgb(252, 199, 0)
+}
+
+#epic {
+    background-color: rgb(205, 0, 252)
+}
