@@ -5,6 +5,9 @@ body {
 }
 
 title {
+    background-color: rgb(66, 41, 84);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
     font-size: 48px;
     text-align: center;
 }
