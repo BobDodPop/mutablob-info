@@ -48,5 +48,5 @@ table, th, td, tr {
 }
 
 #evasion {
-    background: "Evasion Blob"
+    background-image: url("./evasion-blob");
 }
