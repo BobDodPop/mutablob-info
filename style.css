@@ -46,3 +46,7 @@ table, th, td, tr {
     background-clip: text;
     color: transparent;
 }
+
+#evasion {
+    background: "Evasion Blob"
+}
