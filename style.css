@@ -20,21 +20,21 @@ table, th, td, tr {
 }
 
 #common {
-    background-color: rgb(128, 128, 128);
+    background: rgb(128, 128, 128);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
 
 #rare {
-    background-color: rgb(252, 199, 0);
+    background: rgb(252, 199, 0);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
 
 #epic {
-    background-color: rgb(205, 0, 252);
+    background: rgb(205, 0, 252);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
