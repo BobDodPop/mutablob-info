@@ -25,9 +25,5 @@ table, th, td, tr {
 }
 
 #legendary {
-  background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, purple)
 }
