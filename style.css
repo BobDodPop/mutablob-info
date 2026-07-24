@@ -108,3 +108,10 @@ table, th, td, tr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#explosivo {
+    background-image: url("explosivo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
