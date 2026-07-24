@@ -60,3 +60,17 @@ table, th, td, tr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#frozen hull {
+    background-image: url("frozen-hull.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#target practice {
+    background-image: url("target_practice.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
