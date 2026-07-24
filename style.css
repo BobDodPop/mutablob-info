@@ -81,3 +81,10 @@ table, th, td, tr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#onion {
+    background-image: url("onion.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
