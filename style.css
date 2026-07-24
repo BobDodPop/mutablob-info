@@ -74,3 +74,10 @@ table, th, td, tr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#thorns {
+    background-image: url("thorn-blob.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
