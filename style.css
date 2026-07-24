@@ -94,3 +94,17 @@ table, th, td, tr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#hot drop {
+    background-image: url("hot-drop-blob.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#healing salve {
+    background-image: url("healing-salve.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
