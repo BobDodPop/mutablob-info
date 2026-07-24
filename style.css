@@ -75,7 +75,7 @@ table, th, td, tr {
 }
 
 #target-practice {
-    background-image: url("target_practice.jpg");
+    background-image: url("target-practice.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
