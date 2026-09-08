@@ -22,7 +22,8 @@ table, th, td, tr {
     border-radius: 5px;
     font-size: 24px;
     text-align: center;
-    background-color: rgb(251, 250, 245)
+    background-color: rgb(251, 250, 245);
+    height: 300 px;
 }
 
 #common {
