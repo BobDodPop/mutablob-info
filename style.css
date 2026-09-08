@@ -115,3 +115,10 @@ table, th, td, tr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#glasses {
+    background-image: url("glasses.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
